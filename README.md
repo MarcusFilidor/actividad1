@@ -1,5 +1,4 @@
-# actividad1
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     
